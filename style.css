@@ -145,7 +145,7 @@ label span {
 @media only screen and (min-width: 1440px) { 
     main {
         height: 100dvh;
-        background-color: hsl(234, 29%, 20%);
+        background-color: hsl(235, 18%, 26%);
     }
 
     .card {
@@ -176,7 +176,7 @@ label span {
     }
 
     h1 {
-        font-size: 4rem;
+        font-size: 3.5rem;
     }
 
     .success-container {
